@@ -39,3 +39,4 @@ go run main.go -goroutines=false
 ```
 
 ## Unit testing was attempted, however this portion ended in failure.
+- ChatGPT was used in attempting to troubleshoot errors in this section, however after multiple attempts, the same errors persisted.
